@@ -9,8 +9,8 @@ My preferred languages are **Java, Python**.
 **Technologies I Work With:**
 
 - **Container & Orchestration**: Docker, Portainer and Kubernetes  
-- **Networking & VPN**: Tailscale
-- Ansible 
+- **Networking & VPN**: Wireguard
+- **Configuration Management**: Ansible
 
 ### Personal Projects  
 
