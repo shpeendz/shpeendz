@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi, I am [Shpend](*Website*) 👋.  
+I am in a apprenticeship at [Georg-Simon-Ohm Berufskolleg]([https://www.fhdw.de/bergisch-gladbach](https://www.gso-koeln.de/)) and also work at [Amprion Gmbh](https://www.amprion.net/).  
 
-<!--
-**shpeendz/shpeendz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy exploring new technologies and creating innovative solutions as part of my studies and work experience.  
+On GitHub, you can find personal projects, tools I've developed, and contributions to various open-source software.  
 
-Here are some ideas to get you started:
+My preferred languages are **Java, Python**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Technologies I Work With:**
+
+- **Container & Orchestration**: Docker, Portainer and Kubernetes  
+- **Networking & VPN**: Tailscale
+- Ansible 
+
+### Personal Projects  
+
+<p><a href="*WEBLink*"><img src="logos/personal-logo.png" height=48 align=left></a><b>Personal Website</b><br>
+Explore my projects, skills, and connect with me.
+</p>
+
+> [!NOTE]  
+> Please note that the website is currently offline for maintenance and updates.
