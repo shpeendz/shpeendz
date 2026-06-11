@@ -4,11 +4,13 @@ I am in a apprenticeship at [Georg-Simon-Ohm Berufskolleg]([https://www.fhdw.de/
 I enjoy exploring new technologies and creating innovative solutions as part of my studies and work experience.  
 On GitHub, you can find personal projects, tools I've developed, and contributions to various open-source software.  
 
+I also run a self-hosted homelab environment based on Proxmox, where I experiment with virtualization, container orchestration, and infrastructure automation. This allows me to gain real-world experience with production-like setups and DevOps workflows.
+
 My preferred languages are **Java, Python**.  
 
 **Technologies I Work With:**
-
-- **Container & Orchestration**: Docker, Portainer and Kubernetes  
+- **Virtualization & Infrastructure**: Proxmox
+- **Container & Orchestration**: Docker, Portainer and Kubernetes
 - **Networking & VPN**: Wireguard
 - **Configuration Management**: Ansible
 
